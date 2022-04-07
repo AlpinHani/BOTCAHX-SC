@@ -1,9 +1,9 @@
-gc1 = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
+gc1 = 'https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'] // ganti jadi group lu
-global.owner = ['6282221792667','6282320830684'] // Put your number here //owner eval
-global.kontak = ['6282221792667','6282320830684'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whats', 'https://chat.whatsapp.com/DKfsblwOCTRBa9rrAmI7JA'] // ganti jadi group lu
+global.owner = ['6282287750102','6285799743965'] // Put your number here //owner eval
+global.kontak = ['6282287750102','6285799743965'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
 global.prems = ['6282221792667','6282320830684'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -51,17 +51,17 @@ global.packname = 'BOTCAHX' // ganti aja
 global.author = 'BOTCAHX' // ganti aja
 
 //yyy
-bc = '' //BOTCAHX BROADCAST
-footer = '\n© BOTCAHX'
-namabot = '𝘽𝙊𝙏𝘾𝘼𝙃𝙓'
-namalu = 'Tio'
+bc = '' //PINBOTZ BROADCAST
+footer = '\n© PINBOTZ'
+namabot = '𝙋𝙄𝙉𝘽𝙊𝙏𝙕'
+namalu = 'Alpin'
 
 
 // 
-wait = '_*Tunggu Sebentar...*_'
-global.wait = '_*Tunggu Sebentar...*_'
+wait = '_*Sabar Sayang...*_'
+global.wait = '_*Sabar Sayang...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
+global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padanya,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
 global.fla = 'https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text='
